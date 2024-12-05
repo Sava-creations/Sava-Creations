@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sava-creations" alt="sava-creations" /></a> </p>
 
-- 🌱 I’m currently learning **OOP with Python**
+- 🌱 I’m currently learning **Flask**
 
 - 🤝 I’m an Undergraduate at **University of Moratuwa**
 
